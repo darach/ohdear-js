@@ -1,0 +1,28 @@
+{
+  "name": "ohdear",
+  "version": "0.0.1",
+  "description": "The proverbial will hit the fan in production. This is an umbrella.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darach/ohdear-js"
+  },
+  "keywords": [
+    "panic",
+    "heapdump",
+    "devkit",
+    "agent"
+  ],
+  "dependencies": {
+    "heapdump": "0.2.6",
+    "webkit-devtools-agent":  "0.2.3"
+  },
+  "author": "darach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darach/ohdear-js/issues"
+  }
+}
